@@ -4,7 +4,11 @@
 > Socratic prompts, mental models & Feynman challenges for deep learning.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/deep-ask?style=social)](https://github.com/realchendahuang/deep-ask)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/deep-ask?style=social)](https://github.com/realchendahuang/deep-ask/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/deep-ask)](https://github.com/realchendahuang/deep-ask/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/deep-ask/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 ---
 
